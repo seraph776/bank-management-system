@@ -2,7 +2,7 @@
 
 ## Objective
 - Build a **Bank Management System** (`BMS`) that connects to a `sqlite3` database.
-- The `BSM` should allow a customer to : `open` new account, `check` balance, `deposit` funds, `withdraw` funds,  `delete` their account, and `exit` from the program.
+- The `BSM` should allow customers to : `open` new account, `check` balance, `deposit` funds, `withdraw` funds,  `delete` their account, and `exit` from the program.
 - Become familiar with `SQL`, and `CRUD` operations.
 
 ## Screenshots 
