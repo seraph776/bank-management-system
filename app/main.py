@@ -256,7 +256,7 @@ class BMSApplication:
    6. EXIT
                     """)
             user_choice = input('Make a selection:\n> ')
-            if not user_choice.isdigit() or user_choice not in '12345':
+            if not user_choice.isdigit() or user_choice not in '123456':
                 print('Invalid input, please try again!', file=sys.stderr)
                 continue
             else:
